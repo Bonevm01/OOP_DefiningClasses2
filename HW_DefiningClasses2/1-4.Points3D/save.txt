@@ -1,0 +1,3 @@
+3DPoint 235: X = 2; Y = 3; Z = 5
+3DPoint 722: X = 7; Y = 2; Z = 2
+3DPoint -267: X = -2; Y = 6; Z = 7
